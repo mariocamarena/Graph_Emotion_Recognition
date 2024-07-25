@@ -1,0 +1,6 @@
+pytorch==1.2.0
+cudnn==7.6.4
+cudatoolkit==10.0.130
+opencv==3.4.2 //
+scikit-learn==0.21.2 //
+face_alignment==1.0.0 //
